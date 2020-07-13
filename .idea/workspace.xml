@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0440b2f-f210-4f26-8010-2febbcef7764" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>回复</find>
+      <find>管</find>
+      <find>管泽</find>
+      <find>179</find>
+      <find>love</find>
+      <find>ning</find>
+      <find>斗鱼</find>
+      <find>fpx</find>
+      <find>lwx</find>
+      <find>lw</find>
+      <find>b</find>
+      <find>c</find>
+      <find>e</find>
+      <find>f</find>
+      <find>h</find>
+      <find>i</find>
+      <find>j</find>
+      <find>l</find>
+      <find>m</find>
+      <find>q</find>
+      <find>r</find>
+      <find>t</find>
+      <find>v</find>
+      <find>wx</find>
+      <find>x</find>
+      <find>y</find>
+      <find>睿</find>
+      <find>z</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/huifutongji.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1Uhjl9NmSxaxJzCZLeX9hL1w1fM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.ciyun">
+    <configuration name="ciyun" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tieba_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ciyun.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tieba_spider" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="tieba_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ciyun" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0440b2f-f210-4f26-8010-2febbcef7764" name="Default Changelist" comment="" />
+      <created>1553422071269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553422071269</updated>
+      <workItem from="1553422072731" duration="4624000" />
+      <workItem from="1553444258128" duration="2517000" />
+      <workItem from="1553485415387" duration="3613000" />
+      <workItem from="1553501950181" duration="4951000" />
+      <workItem from="1553516054347" duration="10000" />
+      <workItem from="1553516090828" duration="8723000" />
+      <workItem from="1553525688576" duration="305000" />
+      <workItem from="1553602248381" duration="7848000" />
+      <workItem from="1553675626378" duration="3324000" />
+      <workItem from="1553685577988" duration="1600000" />
+      <workItem from="1553708160872" duration="438000" />
+      <workItem from="1575815137225" duration="248000" />
+      <workItem from="1575815884632" duration="132000" />
+      <workItem from="1575816081088" duration="536000" />
+      <workItem from="1575816830569" duration="1333000" />
+      <workItem from="1575862460108" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="386" y="166" key="SettingsEditor" timestamp="1575816139498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="386" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1575816139498" />
+  </component>
+</project>
